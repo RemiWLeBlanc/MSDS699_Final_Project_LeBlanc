@@ -1,4 +1,4 @@
-# MSDS699_Final_Project_LeBlanc
+# Predicting Forest Fires
 Predicting burned areas of forest fires using Machine Learning with scikitlearn.
 
 This data has some major outliers, large fires, that makes it an interesting data set to model. The large fires are ones we would like to predict well.
